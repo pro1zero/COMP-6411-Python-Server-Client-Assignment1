@@ -1,6 +1,6 @@
-Jenish | 22 | Montreal | 986 775-9990
+Jenny | 22 | Montreal | 986 775-9990
 John | 26 | Sydney | 336 605-5440
-Preeti |||
+Alex |||
 |||
 John | 26 | Sydney | 336 605-5440
 Jon | 26 | Sydney | 336 605-5440
